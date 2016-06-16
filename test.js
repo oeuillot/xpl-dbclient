@@ -4,7 +4,7 @@
 const commander = require('commander');
 const debug = require('debug')('xpl-dbclient');
 
-const XplDBClient = require('./API');
+const XplDBClient = require('./lib/API');
 const Memcache = XplDBClient.Memcache;
 const Query = XplDBClient.Query;
 
