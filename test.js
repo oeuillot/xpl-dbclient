@@ -27,3 +27,5 @@ commander.command("request").action((path) => {
   });
   
 });
+
+commander.parse(process.argv);
