@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "API to get values from xpl-db server",
   "dependencies": {
+    "commander": "^2.9.0",
     "memcache": "^0.3.0",
     "request": "^2.72.0"
   },
