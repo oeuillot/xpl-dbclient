@@ -1,6 +1,6 @@
 {
   "name": "xpl-dbclient",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "API to get values from xpl-db server",
   "dependencies": {
     "commander": "^2.9.0",
